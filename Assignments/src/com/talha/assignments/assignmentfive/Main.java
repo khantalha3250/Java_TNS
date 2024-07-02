@@ -3,7 +3,7 @@ package com.talha.assignments.assignmentfive;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static   void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter Kaif's salary: ");
